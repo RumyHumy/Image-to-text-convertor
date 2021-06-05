@@ -14,7 +14,7 @@ Example:
 ░░░░░░░░░░░░░░░░░░░░░░░░
 
 Steps:
-1. Open
+1. Open (choose):
 - .exe
 - .py and instal python 3.* libraries: "clipboard" and "PIL"
 2. Enter the output text sizes (in symbols)
